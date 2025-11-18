@@ -6,7 +6,6 @@ Currently learning and creating projects with:
 - HTML
 - CSS
 - Javascript
-- Java
 
 
 ...And I want to learn many others! Here's my <a href="https://www.linkedin.com/in/augusto-cristino-9938bb71/">LinkedIn!</a>
